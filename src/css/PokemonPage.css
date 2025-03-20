@@ -1,0 +1,27 @@
+.pokemon-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .pokemon-card {
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .pokemon-card img {
+    width: 200px;
+    height: 200px;
+  }
+  
+  ul, .pokemon-card h1, .pokemon-card h3 {
+    margin: 10px 0;
+    color: black;
+  }
+
+  ul {
+    list-style-type: none; 
+    padding-left: 0;
+  }
+  

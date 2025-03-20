@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #000090;
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:active {
+    color: #f1f1f1;
+    text-decoration: underline;
+}
+
+nav a:hover {
+    color: #f1f1f1;
+    text-decoration: underline;
+}
